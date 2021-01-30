@@ -6,7 +6,7 @@ The CEO of the company PyBer has asked me and my partner to work on a new assign
 
 # Results: 
 
-![PyBer_Analysis](https://github.com/Zainak94/PyBer_Analysis/blob/main/ Summary_PyBer_Analysis.PNG)
+![PyBer_Analysis](https://github.com/Zainak94/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 •	City Type Rural has number of total rides at 125 and total drivers at 78. Average fare per ride is more compare to suburban and urban areas. Average fare per driver is the highest compare to suburban and urban average fare per driver. 
 
@@ -15,7 +15,7 @@ The CEO of the company PyBer has asked me and my partner to work on a new assign
 •	Urban has number of total rides 1625 and total drivers at 2405. It has the highest total fares and the lowest average fare per ride and the lowest average fare per driver. 
 Overall, for urban the fares are low for both drivers and per ride, but total riders and drivers are the highest. The reason for this is because urban areas are highly populated. 
 
-![PyBer_Analysis](https://github.com/Zainak94/PyBer_Analysis/blob/main/ PyBer_fare_summary.PNG)
+![PyBer_Analysis](https://github.com/Zainak94/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 •	City Type: Rural: The peak of the rides in correlation with the fares were more in April and last week of Feb. The highest is $500 in fares in April. 
 
