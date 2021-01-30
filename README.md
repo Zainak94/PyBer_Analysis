@@ -25,7 +25,8 @@ Overall, for urban the fares are low for both drivers and per ride, but total ri
 
 •	Overall, in total fare by city type, we can tell that the highest ride-sharing data is in Urban area. The highest fare goes up to $2500. 2nd highest ride sharing data is in suburban area and last is the rural area. Urban area is usually highly populated compare to the suburban and rural areas. 
 
-# Summary:  There are three business recommendations to the CEO for addressing any disparities among the city types.
+# Summary: 
+There are three business recommendations to the CEO for addressing any disparities among the city types.
 
 1.	Ride sharing data is the highest in Urban areas. The CEO should continue to provide more drivers to urban areas as we can see that it has the greatest number of riders which will help increase the fares per ride as well. 
 
