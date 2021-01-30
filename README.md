@@ -6,7 +6,7 @@ The CEO of the company PyBer has asked me and my partner to work on a new assign
 
 # Results: 
 
-![PyBer_Analysis](https://github.com/Zainak94/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+![PyBer_Analysis](https://github.com/Zainak94/PyBer_Analysis/blob/main/Summary_PyBer_Analysis.PNG)
 
 •	City Type Rural has number of total rides at 125 and total drivers at 78. Average fare per ride is more compare to suburban and urban areas. Average fare per driver is the highest compare to suburban and urban average fare per driver. 
 
